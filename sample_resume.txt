@@ -1,0 +1,32 @@
+John Doe
+john.doe@email.com | (555) 123-4567 | github.com/johndoe | linkedin.com/in/johndoe
+
+OBJECTIVE
+Highly motivated Software Engineer with 4 years of experience building scalable web applications and data pipelines. Passionate about writing clean, efficient code and collaborating with cross-functional teams.
+
+EXPERIENCE
+Software Engineer | Tech Innovators Inc.
+June 2020 - Present
+- Developed and maintained responsive web applications using React, HTML, CSS, and JavaScript.
+- Designed and implemented robust backend RESTful APIs using Python, Django, and FastAPI.
+- Optimized database queries in PostgreSQL, reducing response times by 30%.
+- Deployed applications on AWS (EC2, S3, RDS) using Docker and CI/CD pipelines (GitHub Actions).
+- Collaborated with product managers and UX designers to deliver features on time.
+
+Junior Web Developer | StartUp Solutions
+Jan 2018 - May 2020
+- Built interactive user interfaces using Angular and TypeScript.
+- Assisted in the migration of legacy codebases to modern frontend frameworks.
+- Wrote unit and integration tests using Jest and PyTest to ensure code quality.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology
+Graduated: May 2018
+
+SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, SQL, HTML, CSS
+Frameworks & Libraries: React, Django, FastAPI, Angular, Node.js, Express, Pandas, NumPy
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Tools & Platforms: Git, Docker, Kubernetes, AWS, Linux, REST API
+Other: Agile, Scrum, Problem-Solving, Team Leadership, Communication
