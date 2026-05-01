@@ -2,6 +2,8 @@
 
 A Machine Learning-based resume screening and candidate ranking system built using Natural Language Processing (NLP) and Streamlit. This tool automates the process of evaluating resumes against job descriptions, identifying key skills, computing match scores, and performing skill gap analysis.
 
+## Deployed App Link : https://akarshakk-future-ml-03-app-j2kyli.streamlit.app
+
 ## 🚀 Features
 
 - **Automated Resume Parsing:** Reads and extracts text from both PDF and TXT resumes.
